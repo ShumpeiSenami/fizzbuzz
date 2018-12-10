@@ -1,0 +1,18 @@
+body{
+    background-color:lightskyblue;
+    
+}
+h1{
+    color:red;
+}
+button{
+    padding: 5px 20px;
+    background-color:whitesmoke;
+    border-style: none;
+}
+input{
+    height: 22px;
+}
+p{
+    color:rgb(63, 27, 42);
+}
